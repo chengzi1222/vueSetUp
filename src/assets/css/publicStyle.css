@@ -1,0 +1,214 @@
+@charset "utf-8";
+/* CSS Document */
+.borHalf{
+	border-radius:50%;
+	-moz-border-radius:50%;
+	-ms-border-radius:50%;
+	-o-border-radius:50%;
+	-webkit-border-radius:50%;}
+
+.bgN{background:none;}
+.bgf2f2f2{background:#f2f2f2;}
+.bg28bd1c{background:#28bd1c;}
+.bgfff{background:#fff !important;}
+.boderN{border:none !important;}
+.borderT1{border-top:1px solid #d9d9d9;}
+.boxS{
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	-webkit-box-sizing:border-box;}
+.bor1{
+	border-radius:1px;
+	-moz-border-radius:1px;
+	-ms-border-radius:1px;
+	-o-border-radius:1px;
+	-webkit-border-radius:1px;}
+.bor3{
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-ms-border-radius:3px;
+	-o-border-radius:3px;
+	-webkit-border-radius:3px;}
+
+.bor10{
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-ms-border-radius:10px;
+	-o-border-radius:10px;
+	-webkit-border-radius:10px;}
+	
+.color202020{color:#202020;}
+.color898989{color:#898989;}
+.color44de2f{color:#44de2f;}
+.colorff2020{color:#ff2020;}
+.color28bd1c{color:#28bd1c;}
+.colorG{color:#28bd1c;}
+.colorB{color:#1c60bd;}
+.colord9d9d9{color:#d9d9d9;}
+.color646464{color:#646464 !important;}
+.delect:hover,
+.colorf12f2f{color:#f12f2f !important;}
+.color1c83e3{color:#1c83e3 !important;}/******************第二轮新加**************/
+.color7bd774{color:#7bd774;}
+.color999999{color:#999999 !important;}	
+.color1c60bd{color:#1c60bd !important;}
+	
+.disN{display:none;}
+.disB{display:block;}
+
+.fl{float:left !important;}
+.fr{float:right !important;}
+.fs12{font-size:12px;}
+.fs14{font-size:14px;}
+.fs16{font-size:16px !important;}
+.fs18{font-size:18px;}
+.fs20{font-size:20px;}
+.fs24{font-size:24px !important;}
+.fs26{font-size:26px;}
+.fs28{font-size:28px !important;}
+.fs32{font-size:32px;}
+.fw100{font-weight:100 !important;}
+.fw600{font-weight:600;}
+
+
+.height88{height:88px;}
+
+.lineH38{line-height:38px;}
+.lineH30{line-height:30px;}
+
+.m0A{margin:0 auto;}
+.m0{margin:0;}
+.m10{margin:10px;}
+.m40{margin:40px;}
+.m10-7{margin:10px 7px;}
+.m20{margin:20px;}
+.mt23A{margin:23px auto;}
+.mt12{margin-top:12px;}
+.ml5{margin-left:5px;}
+.mt5{margin-top:5px;}
+.mt10{margin-top:10px;}
+.mt18{margin-top:18px;}
+.ml10{margin-left:10px;}
+.ml20{margin-left:20px;}
+.ml40{margin-left:40px;}
+.ml30{margin-left:30px;}
+.ml47{margin-left:47px;}
+.ml50{margin-left:50px;}
+.ml55{margin-left:55px;}
+.ml60{margin-left:60px;}
+.ml87{margin-left:87px;}
+.ml130{margin-left:130px;}
+.ml160{margin-left:160px;}
+.ml195{margin-left:195px;}
+.ml400{margin-left:400px !important;}
+
+.mt13{margin-top:13px;}
+.mt20{margin-top:20px;}
+.mt34{margin-top:34px;}
+.mt40{margin-top:40px;}
+.mt45{margin-top:45px;}
+.mt100{margin-top:100px;}
+.mt8{margin-top:8px;}
+
+
+.mb10{margin-bottom:10px;}
+.mb20{margin-bottom:20px;}
+.mb30{margin-bottom:30px;}
+.mb40{margin-bottom:40px;}
+.mb100{margin-bottom:100px;}
+.mr10{margin-right:10px;}
+.mr20{margin-right:20px;}	
+.mr40{margin-right:40px;}
+
+.p0{padding:0;}
+.p3{padding:3px;}	
+.p10{padding:10px;}	
+.p20{padding:20px !important;}
+.p010{padding:0 10px;}
+.p020{padding:0 20px;}
+.pd10_20{padding:10px 20px !important;}
+.p15-0{padding:15px 0 !important;}
+.pd10_40{padding:10px 40px 10px 20px !important;}
+.pt1{padding-top:1px;}
+.pT40{padding-top:40px !important;}
+.pl40{padding-left:40px !important;}
+.pl16{padding-left:16px !important;}
+.singleoverflow{
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap;}
+.t0{top:0;}
+.textL{text-align:left !important;}
+.textC{text-align:center;}
+.fs12{font-size:12px;}
+
+.w100{
+	width:100% !important;
+	overflow:hidden;}
+.w40{width:40px;}
+.width60{width:60px !important;}
+.w75{width:75px;}
+.width90{width:90px;}
+.width100{width:100px !important;}
+.w105{width:105px;}
+.width180{width:180px !important;}
+.width110{width:110px !important;}
+.width200{width:200px !important;}
+.w218{width:218px;}
+.width280{width:280px;}
+.width310{width:310px;}
+.w330{width:330px;}
+.width344{width:344px;}
+.width380{width:380px;}
+.width470{width:470px !important;}
+.w500{width:500px;}
+.width750{width:750px;}
+.w1002{width:1002px;}
+.width220{width:220px !important;}
+.oh{overflow:hidden;}
+.bottom30{
+	bottom:30px;}
+
+
+
+/********************************第二轮新增（已添加）************************************/
+
+.zqts{
+	font-size:14px;
+	color:#28bd1c;
+	margin-left:5px;
+	line-height:37px;}
+
+.inputts{
+	padding-right:33px;
+	width:225px;
+	background-image:url(../img/duide.png);
+	background-repeat:no-repeat;
+	background-position:240px center;
+	}
+.cwtsIcon{
+	width:20px;
+	height:20px;
+	float:left;
+	display:block;
+	margin:8px 0 0 5px;
+	background-position:-158px -117px;}
+
+
+
+/***************2016-8-10新增*************************/
+			
+.pt20{
+	padding-top:20px;}
+.h60{height:60px;}
+
+.bor5{
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-ms-border-radius:5px;
+	-o-border-radius:5px;
+	-webkit-border-radius:5px;}
+.h180{height:180px;}
+.mt-2{margin-top:-2px;}
